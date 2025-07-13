@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/home/codespace/.gradle/daemon/8.0.2/com.example.v0app-merged_res-31:/mipmap-xhdpi_nootchad.png.flat",
+        "source": "/home/codespace/.gradle/daemon/8.0.2/com.example.v0app-main-33:/mipmap-xhdpi/nootchad.png"
+    },
+    {
+        "merged": "/home/codespace/.gradle/daemon/8.0.2/com.example.v0app-merged_res-31:/mipmap-xxhdpi_nootchad.png.flat",
+        "source": "/home/codespace/.gradle/daemon/8.0.2/com.example.v0app-main-33:/mipmap-xxhdpi/nootchad.png"
+    },
+    {
+        "merged": "/home/codespace/.gradle/daemon/8.0.2/com.example.v0app-merged_res-31:/mipmap-mdpi_nootchad.png.flat",
+        "source": "/home/codespace/.gradle/daemon/8.0.2/com.example.v0app-main-33:/mipmap-mdpi/nootchad.png"
+    },
+    {
+        "merged": "/home/codespace/.gradle/daemon/8.0.2/com.example.v0app-merged_res-31:/layout_activity_main.xml.flat",
+        "source": "/home/codespace/.gradle/daemon/8.0.2/com.example.v0app-main-33:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/codespace/.gradle/daemon/8.0.2/com.example.v0app-merged_res-31:/mipmap-xxxhdpi_nootchad.png.flat",
+        "source": "/home/codespace/.gradle/daemon/8.0.2/com.example.v0app-main-33:/mipmap-xxxhdpi/nootchad.png"
+    },
+    {
+        "merged": "com.example.v0app-merged_res-31:/layout_activity_main.xml.flat",
+        "source": "com.example.v0app-main-33:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/codespace/.gradle/daemon/8.0.2/com.example.v0app-merged_res-31:/mipmap-hdpi_nootchad.png.flat",
+        "source": "/home/codespace/.gradle/daemon/8.0.2/com.example.v0app-main-33:/mipmap-hdpi/nootchad.png"
+    }
+]
