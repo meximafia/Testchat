@@ -4,3 +4,4 @@ id webView
 layout activity_main
 mipmap nootchad
 string app_name
+style Theme.Testchat
